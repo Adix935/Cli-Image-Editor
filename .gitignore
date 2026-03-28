@@ -1,0 +1,12 @@
+# Executable
+image_editor
+
+# Object files (în caz că modifici Makefile-ul mai târziu)
+*.o
+
+# Archives
+*.zip
+
+# Test outputs and debug logs
+output/
+*.txt
